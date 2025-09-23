@@ -17,3 +17,10 @@ Here are some of my projects (click image to view the live GitHub Pages):
 
 ## 📊 Global Superstore EDA
 [![Superstore Preview](/assets/EDA.png)](https://sebastianmoiras.github.io/Exploratory-Data-Analysis---Global-Superstore/)
+
+
+## 📬 Connect with Me
+
+- 📧 [Email](mailto:jonathansebastian858@email.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/jonathan-sebastian](https://www.linkedin.com/in/jonathan-sebastian-9212b0291/))
+- 🐙 [GitHub](https://github.com/sebastianmoiras)
