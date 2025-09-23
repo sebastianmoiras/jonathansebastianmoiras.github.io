@@ -1,4 +1,4 @@
-# Jonathan Sebastian Portfolio
+# Jonathan Sebastian Moiras - Portfolio
 
 Hi, I'm Jonathan Sebastian — a Data Science student passionate about ML and NLP.  
 Here are some of my projects (click image to view the live GitHub Pages):
