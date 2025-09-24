@@ -1,6 +1,6 @@
 # Jonathan Sebastian Moiras - Portfolio
 
-Hi, I'm Jonathan Sebastian — a Data Science student
+Hi, I'm Jonathan Sebastian — a Data Science student  
 Here are some of my projects (click image to view the live GitHub Pages):
 
 ---
@@ -22,6 +22,13 @@ Here are some of my projects (click image to view the live GitHub Pages):
 
 ## 🧩 Autoencoder
 [![Autoencoder Preview](/assets/AE1.png)](https://sebastianmoiras.github.io/Auto-Encoder/)
+
+---
+
+## 🩺 Diabetes Prediction
+A deep learning project that predicts whether a patient has diabetes using medical attributes,  
+with a comparison between **Sequential API** and **Functional API** architectures.  
+[👉 View Project](https://sebastianmoiras.github.io/Diabetes-Prediction/)
 
 ---
 
