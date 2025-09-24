@@ -21,7 +21,7 @@ Here are some of my projects (click image to view the live GitHub Pages):
 ---
 
 ## 🧩 Autoencoder
-[![Autoencoder Preview](/assets/AE1.png)](https://sebastianmoiras.github.io/Autoencoder/)
+[![Autoencoder Preview](/assets/AE1.png)](https://sebastianmoiras.github.io/Auto-Encoder/)
 
 ---
 
