@@ -1,6 +1,6 @@
 # Jonathan Sebastian Moiras - Portfolio
 
-Hi, I'm Jonathan Sebastian — a Data Science student passionate about ML and NLP.  
+Hi, I'm Jonathan Sebastian — a Data Science student
 Here are some of my projects (click image to view the live GitHub Pages):
 
 ---
@@ -18,9 +18,14 @@ Here are some of my projects (click image to view the live GitHub Pages):
 ## 📊 Global Superstore EDA
 [![Superstore Preview](/assets/EDA.png)](https://sebastianmoiras.github.io/Exploratory-Data-Analysis---Global-Superstore/)
 
+---
+
+## 🧩 Autoencoder
+[![Autoencoder Preview](/assets/AE1.png)](https://sebastianmoiras.github.io/Autoencoder/)
+
+---
 
 ## 📬 Connect with Me
-
-- [Email](mailto:jonathansebastian858@email.com) - Jonathansebastian858@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jonathan-sebastian-9212b0291)
+- [Email](mailto:jonathansebastian858@email.com) - Jonathansebastian858@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sebastian-9212b0291)  
 - [GitHub](https://github.com/sebastianmoiras)
