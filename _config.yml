@@ -1,7 +1,10 @@
 title: "Jonathan Sebastian Moiras"
 description: >
-  Data Science Student @ Binus University  
-description: "Data Science Portfolio"
+  Hi, I'm Jonathan Sebastian — a Data Science undergraduate at BINUS University.  
+  I specialize in machine learning, deep learning, NLP, and data visualization,  
+  and have applied these skills in real projects ranging from recommendation systems to forecasting.  
+  My goal is to apply data-driven approaches that transform insights into business value,
+  driving innovation and supporting organizations in achieving their objectives.
 theme: jekyll-theme-minimal
 logo: /assets/Profile.jpg  
 show_downloads: false
