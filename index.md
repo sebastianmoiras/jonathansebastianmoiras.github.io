@@ -57,7 +57,7 @@ A convolutional autoencoder trained for **image denoising** using Gaussian noise
 ---
 
 ### 🎨 Generative Adversarial Network (GAN)
-[![GAN Preview](/assets/GAN.png)](https://sebastianmoiras.github.io/GAN/)  
+[![GAN Preview](/assets/GAN1.png)](https://sebastianmoiras.github.io/GAN/)  
 A GAN model trained to **recreate pistachio images**, showcasing synthetic image generation.  
 [👉 View Project](https://sebastianmoiras.github.io/GAN/)
 
