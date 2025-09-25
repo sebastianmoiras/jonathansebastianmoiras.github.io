@@ -31,15 +31,13 @@ Here are some of my projects (click image to view the live GitHub Pages):
 ---
 
 ## 🩺 Diabetes Prediction
-A deep learning project that predicts whether a patient has diabetes using medical attributes,  
-with a comparison between **Sequential API** and **Functional API** architectures.  
+A deep learning project that predicts whether a patient has diabetes using medical attributes, with a comparison between **Sequential API** and **Functional API** architectures.  
 [👉 View Project](https://sebastianmoiras.github.io/Diabetes-Prediction/)
 
 ---
 
 ## 📈 Forecasting with LSTM
-A time series forecasting project using Long Short-Term Memory (LSTM) networks  
-to predict **Ambient Temperature (AT, °C)** trends over time, based on sequential data.  
+A time series forecasting project using Long Short-Term Memory (LSTM) networks to predict **Ambient Temperature (AT, °C)** trends over time, based on sequential data.  
 [👉 View Project](https://sebastianmoiras.github.io/Forecasting-with-LSTM/)
 
 ---
