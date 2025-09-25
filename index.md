@@ -1,7 +1,7 @@
 # Jonathan Sebastian Moiras - Portfolio
 
 Hi, I'm Jonathan Sebastian — a Data Science student  
-Here are some of my projects (click image to view the live GitHub Pages):
+Here are some of my projects **(click image to view the live GitHub Pages)**:
 
 ---
 
