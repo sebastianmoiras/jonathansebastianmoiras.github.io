@@ -2,14 +2,6 @@
 
 ---
 
-## Connect with Me
-- 👉 [Email](mailto:jonathansebastian858@email.com) - Jonathansebastian858@gmail.com
-- 👉 [Phone](tel:+6287786173096) - 087786173096  
-- 👉 [LinkedIn](https://www.linkedin.com/in/jonathan-sebastian-9212b0291)  
-- 👉 [GitHub](https://github.com/sebastianmoiras)
-
----
-
 ## Experience
 - **System Analyst (Part-time)** – Binus IT Division (Feb 2025 – Now)  
 - **Mentor (Contract)** – BINUS (Feb 2025 - June 2025)  
@@ -23,6 +15,14 @@
 
 ## Organization
 - **Data Science Club** – BINUS (Sept 2023 - Sept 2024)  
+
+---
+
+## Connect with Me
+- 👉 [Email](mailto:jonathansebastian858@email.com) - Jonathansebastian858@gmail.com
+- 👉 [Phone](tel:+6287786173096) - 087786173096  
+- 👉 [LinkedIn](https://www.linkedin.com/in/jonathan-sebastian-9212b0291)  
+- 👉 [GitHub](https://github.com/sebastianmoiras)
 
 ---
 
