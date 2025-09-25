@@ -78,5 +78,4 @@ using LSTM on environmental and air quality data.
 ---
 
 ## 🔍 Explore More
-Here is my other projects:
 👉 [Explore my other projects on GitHub](https://github.com/sebastianmoiras)
