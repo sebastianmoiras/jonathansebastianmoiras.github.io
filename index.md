@@ -7,8 +7,8 @@ with hands-on experience in end-to-end application development.
 ---
 
 ## Connect with Me
-- [Email](mailto:jonathansebastian858@email.com)  
-- [Phone](tel:+6287786173096)  
+- [Email](mailto:jonathansebastian858@email.com) - Jonathansebastian858@gmail.com
+- [Phone](tel:+6287786173096) - 087786173096  
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sebastian-9212b0291)  
 - [GitHub](https://github.com/sebastianmoiras)
 
