@@ -20,12 +20,12 @@ with hands-on experience in end-to-end application development.
 
 ---
 
-## 🎓 Education
+## Education
 - **BINUS University** – Data Science (2023 – Present)  
 
 ---
 
-## 🤝 Organization
+## Organization
 - **Data Science Club** – BINUS (Sept 2023 - Sept 2024)  
 
 ---
