@@ -42,7 +42,7 @@ A computer vision project using deep learning to estimate crowd density and gene
 
 ---
 
-### 📊 Global Superstore EDA
+### 📊 Global Superstore EDA (Visualization)
 [![Superstore Preview](/assets/EDA.png)](https://sebastianmoiras.github.io/Exploratory-Data-Analysis---Global-Superstore/)  
 Exploratory analysis of sales, profit, shipping, and customer segments from the Global Superstore dataset.  
 [👉 View Project](https://sebastianmoiras.github.io/Exploratory-Data-Analysis---Global-Superstore/)
