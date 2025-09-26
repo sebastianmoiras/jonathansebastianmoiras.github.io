@@ -73,7 +73,7 @@ with a comparison between **Sequential API** and **Functional API** models.
 ### 📈 Forecasting AT Temperature (°C) with LSTM
 Time series forecasting project predicting **AT temperature** trends  
 using LSTM on environmental and air quality data.  
-[👉 View Project](https://sebastianmoiras.github.io/Forecasting-LSTM/)
+[👉 View Project](https://sebastianmoiras.github.io/Forecasting-with-LSTM/)
 
 ---
 
